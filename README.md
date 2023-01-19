@@ -9,9 +9,7 @@
 4. **支持设置回调**，可以自己编写代码实现某种高级的、程序没有提供的功能。    
 默认提供**Git版本控制支持**
 5. 支持限制文件大小，防止复制大文件造成延误
-6. 支持延迟复制，对“偷”课件类的场景提升用户体验十分有用
-
-![Screenshot](/git-resources/screenshot-new.jpg)
+6. 支持延迟复制，对“偷”文档类的场景提升用户体验十分有用
 
 本程序有两个图标，默认图标表示当前处于空闲状态，红色图标表示当前正在复制文件（工作中）          
    
@@ -21,18 +19,16 @@
 
 #### 【推荐】.Net Framework 4.0 版本（标准版）        
 **适用操作系统**：Windows 8 / Windows 10     
-[点击从Git@OSC下载(中国大陆用户推荐)](https://git.oschina.net/kenvix/USBCopyer/raw/master/Release/USBCopyer.Release.exe)         [点击从GitHub下载](https://github.com/kenvix/USBCopyer/blob/master/Release/USBCopyer.Release.exe?raw=true)  
+[点击从GitHub下载](https://github.com/mckn007/USBCopyer/release/)  
 
 #### .Net Framework 3.5 版本（兼容版）     
 **适用操作系统**：Windows 7 / Windows Vista / Windows XP     
-**WinXP请注意**：XP可能需要手动安装 .NET Framework 3.5，[没有安装请点此](https://download.microsoft.com/download/7/0/3/703455ee-a747-4cc8-bd3e-98a615c3aedb/dotNetFx35setup.exe)    
-[点击从Git@OSC下载(中国大陆用户推荐)](https://git.oschina.net/kenvix/USBCopyer/raw/master/Release/USBCopyer.Release.Net3.5.exe)         [点击从GitHub下载](https://github.com/kenvix/USBCopyer/blob/master/Release/USBCopyer.Release.Net3.5.exe?raw=true)   
+**WinXP请注意**：XP可能需要手动安装 .NET Framework 3.5，[没有安装请点此](https://download.microsoft.com/download/7/0/3/703455ee-a747-4cc8-bd3e-98a615c3aedb/dotNetFx35setup.exe)     
 
-
-自 V5.0 开始，标准版即为低权限版。不会弹出UAC警告。亦支持高DPI缩放。
+自 V5.0 开始，标准版即为低权限版·不会弹出UAC警告·亦支持高DPI缩放
 ### 适用场景
 
-1. 获取授课教师的课件         
+1. 获取授课教师的文档        
 2. 获取插到某台公用电脑上的U盘的数据
 3. 快捷地备份U盘（从V5.0开始）         
 4. 备份U盘的同时进行版本控制
@@ -84,11 +80,4 @@ USBCopyer.exe [/hide] [/gui] [/reset]
 
 ## 捐赠
 USBCopyer 是一个开源的，非盈利的项目。如果你喜欢这个项目，请捐赠它：
-##### 支付宝捐赠
-
-![Screenshot](/git-resources/alipay-pay.jpg)
-
-##### 微信支付捐赠
-![Screenshot](/git-resources/weixin-pay.jpg)     
-    
-[捐赠墙(点击查看)](/Donors.md)
+  
