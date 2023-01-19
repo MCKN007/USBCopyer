@@ -74,10 +74,6 @@ USBCopyer.exe [/hide] [/gui] [/reset]
 #### 如何使用回调&如何配置Git版本控制？
 参见：https://kenvix.com/post/usbcopyer-callback/
 
-## 代码仓库
-[Git@OSC](https://git.oschina.net/kenvix/USBCopyer) [GitHub](https://github.com/kenvix/USBCopyer)            
-[我的博客文章](https://kenvix.com/?p=86)
-
 ## 捐赠
 USBCopyer 是一个开源的，非盈利的项目。如果你喜欢这个项目，请捐赠它：
   
