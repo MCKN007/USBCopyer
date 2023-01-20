@@ -71,9 +71,6 @@ USBCopyer.exe [/hide] [/gui] [/reset]
 1.插上你的U盘，然后启动本程序，加入该U盘到黑名单，然后设置输出目录到你的U盘         
 2.用 PCHunter 之类的程序干掉还原程序
 
-#### 如何使用回调&如何配置Git版本控制？
-参见：https://kenvix.com/post/usbcopyer-callback/
-
 ## 捐赠
 USBCopyer 是一个开源的，非盈利的项目。如果你喜欢这个项目，请捐赠它：
   
