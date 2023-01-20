@@ -72,5 +72,5 @@ USBCopyer.exe [/hide] [/gui] [/reset]
 2.用 PCHunter 之类的程序干掉还原程序
 
 ## 捐赠
-USBCopyer 是一个开源的，非盈利的项目。如果你喜欢这个项目，请捐赠它：
+USBCopyer 是一个开源的，非盈利的项目，如果你喜欢这个项目，请捐赠它：
   
